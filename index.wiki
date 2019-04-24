@@ -1,3 +1,5 @@
+%title Notes
+
 = Notes =
 
 [[truth|What Is Truth?]]

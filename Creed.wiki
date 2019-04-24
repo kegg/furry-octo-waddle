@@ -1,3 +1,5 @@
+%title My Creed (Beliefs)
+
 = Creed =
 
 # It is a noble thing to be doing that which is good. 
