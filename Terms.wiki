@@ -1,0 +1,24 @@
+%title Terms
+
+= Terms =
+
+*Belief Bias*
+
+    Wikipedia - Belief Bias is the tendency to judge the strength of arguments 
+    based on the plausibility of their conclusion rather than how strongly they 
+    support that conclusion. A person is more likely to accept an argument that 
+    supports a conclusion that aligns with his values, beliefs and prior 
+    knowledge, while rejecting counter arguments to the conclusion.
+
+*Cognitive Dissonance*
+
+    noun - The state of having inconsistent thoughts, beliefs, or attitudes,
+    especially as relating to behavioral decisions and attitude change.
+    
+    Wikipedia - In the field of psychology, cognitive dissonance is the mental
+    discomfort (psychologial stress) experienced by a person who holds two or
+    more contradictory beliefs, ideas, or values. This discomfort is triggered
+    by a situation in which a person's belief clashes with new evidence 
+    perceived by the person. When confronted with facts that contradict beliefs, 
+    ideas, and values, people will try to find a way to resolve the 
+    contradiction to reduce their discomfort.
