@@ -1,0 +1,22 @@
+= Fri May 10, 2019 =
+
+I went and installed XUbuntu on my laptop. It wasn't as straight forward as I 
+planned. This was my eighth attempt at installing Linux on this particular 
+laptop.
+
+The first few attempts didn't work at all. Something with the installer just 
+didn't want to play right. It kept looking for a CD, which didn't exist, to 
+install the reamining components. This was with Linux Mint xfce edition.
+
+Then my computer wouldn't boot at all. It said there wasn't a bootable drive, 
+and I needed to create one. That was fun.
+
+So I kept trying.
+
+Finally I came across XUbuntu and attempted that. It wouldn't boot from the 
+flash drive, it was missing soemthing in the boot loader. So I did a quick 
+google and came across an answer. Sweet, that worked like a charm.
+
+I was able to boot into the laptop and install XUbuntu without problem.
+
+Now my laptop is happy and there's nothing wrong with that.
