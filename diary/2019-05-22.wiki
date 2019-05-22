@@ -1,0 +1,6 @@
+= Tue May 21, 2019 =
+
+Programming a game still... why exactly? Because I can. It's an interesting project. 
+Never worked on anything like it before. Didn't know it could be so easy, yet complex
+to try and get things working just right the way you want them to. Such an interesting
+concept and design for sure. We'll see where it leads.
